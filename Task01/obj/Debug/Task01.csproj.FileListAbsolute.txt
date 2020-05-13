@@ -1,0 +1,9 @@
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\Task01\bin\Debug\Task01.exe.config
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\Task01\bin\Debug\Task01.exe
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\Task01\bin\Debug\Task01.pdb
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\Task01\bin\Debug\CWLibrary.dll
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\Task01\bin\Debug\CWLibrary.pdb
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\Task01\obj\Debug\Task01.csprojAssemblyReference.cache
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\Task01\obj\Debug\Task01.csproj.CopyComplete
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\Task01\obj\Debug\Task01.exe
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\Task01\obj\Debug\Task01.pdb

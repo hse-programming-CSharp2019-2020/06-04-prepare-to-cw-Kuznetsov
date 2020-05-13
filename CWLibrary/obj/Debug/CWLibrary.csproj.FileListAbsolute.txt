@@ -1,0 +1,5 @@
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\CWLibrary\bin\Debug\CWLibrary.dll
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\CWLibrary\bin\Debug\CWLibrary.pdb
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\CWLibrary\obj\Debug\CWLibrary.csprojAssemblyReference.cache
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\CWLibrary\obj\Debug\CWLibrary.dll
+C:\source\HSE\С#\4Module\06-04-prepare-to-cw-Kuznetsov\CWLibrary\obj\Debug\CWLibrary.pdb
